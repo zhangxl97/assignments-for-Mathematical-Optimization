@@ -2,11 +2,13 @@
 
 ------
 
-#### Assignments for 数理最適化特論／ Mathematical Optimization  
+#### Assignment one for 数理最適化特論／ Mathematical Optimization  
+
+#### Theme: Experiments on Iteration complexity
 
 #### Name: Zhang Xianliang 張賢亮  
 
-#### Date: 2020/5 - 2020/7 S1 Term
+#### Date: 2020/5/24  
 
 Code Link: [Github](https://github.com/zhangxl97/assignments-for-Mathematical-Optimization.git)
 
